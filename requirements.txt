@@ -1,0 +1,20 @@
+# Arabic Blender Translator - Python Dependencies
+# لا توجد متطلبات خارجية!
+# جميع المكتبات المستخدمة مدمجة في Python الأساسي
+
+# Built-in libraries used:
+# - tkinter (GUI)
+# - socket (networking)
+# - json (data parsing)
+# - threading (async operations)
+# - re (text processing)
+# - logging (debugging)
+
+# System Requirements:
+# - Python 3.7+
+# - Windows 10/11 or Linux or Mac
+# - Blender 3.0+
+
+# Optional (for development):
+# pytest>=6.0  # للاختبارات
+# pylint>=2.0  # لفحص الكود
